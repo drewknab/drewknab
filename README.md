@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**drewknab/drewknab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Drew.
 
-Here are some ideas to get you started:
+I'm a polyglot developer, and I've done a tiny bit of open source work. I'd like to branch out more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Presently, I'm primarily interested in Elixir, Crystal, and F# tooling.
+
+🌩️ Lightning Round:
+- Neovim user
+- LSP enthusiast
+- Small Tech enjoyer
+- Magic: The Gathering enjoyer
+- AI Code Gen disliker
