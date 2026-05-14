@@ -11,4 +11,3 @@ Presently, I'm primarily interested in Elixir, Crystal, and F# tooling.
 - LSP enthusiast
 - Small Tech enjoyer
 - Magic: The Gathering enjoyer
-- AI Code Gen disliker
